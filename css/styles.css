@@ -549,7 +549,7 @@ ol {
   align-items: center;
   justify-content: center;
   flex-direction: row;
-  gap: 16px;
+  margin-left: 16px;
 }
 
 /* =========BACKDROP======== */
@@ -627,6 +627,7 @@ ol {
   max-width: 360px;
   margin-bottom: 16px;
 }
+
 .review-form-field-label {
   display: block;
   font-weight: 400;
@@ -639,7 +640,7 @@ ol {
   margin-top: 8px;
 }
 .review-form-field-wrapper {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 .review-form-input {
   border: 1px solid rgba(46, 47, 66, 0.4);
