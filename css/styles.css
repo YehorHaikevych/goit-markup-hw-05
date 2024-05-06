@@ -585,6 +585,7 @@ ol {
   padding: 72px 24px 24px;
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 1px 3px rgba(0, 0, 0, 0.12),
     0px 2px 1px rgba(0, 0, 0, 0.2);
+  margin-bottom: 8px;
 }
 .modal-close-btn {
   position: absolute;
@@ -712,6 +713,7 @@ ol {
   background-color: #404bbf;
   fill: #f4f4fd;
   border-color: #404bbf;
+  border: none;
 }
 .review-form-checkbox:focus
   + .rewiew-form-checkbox-label
